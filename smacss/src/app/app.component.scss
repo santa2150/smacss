@@ -1,0 +1,55 @@
+.container {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000;
+  }
+  
+
+.header {
+    margin: 20px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+}
+
+
+.profile-name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.categories{
+    text-decoration-line: underline;
+}
+
+.img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.enlace{
+    color: blue;
+    text-decoration-line: underline;
+}
+
+.border_Black{
+    border: 1px solid;
+    padding: 10px;
+    border-color:black
+}
+
+.footer{
+    display: flex;
+}
+
+.imagen_foot{
+    max-width: 100px;
+    max-height: 100px;
+}
